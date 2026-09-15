@@ -44,12 +44,19 @@ public class StringManipulation {
             sb.reverse();
             System.out.println(sb);
 
-
             /*Common methods:
             append()
             insert()
             replace()
             delete()
-            reverse()*/
+            reverse()
+Definition
+String manipulation in Java is the process of performing
+operations such as concatenation, comparison, searching,
+extraction, replacement, conversion, and modification on
+strings using classes such as String, StringBuilder, and StringBuffer.
+*/
+
+
         }
     }
