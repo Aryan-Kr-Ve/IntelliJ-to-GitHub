@@ -12,8 +12,8 @@ class Arraysort {
                 stringArray[i] = obj.readLine();
             }
             Arrays.sort(stringArray);
-            for(int j = 0; j < size-1; j ++ ){
-                out.println(stringArray[j]);
+            for(int j = 0; j < size-1; j ++){
+                System.out.println(stringArray[j]);
             }
         }
     }
